@@ -5,4 +5,4 @@ Projects based on [App Ideas Collection](https://github.com/florinpop17/app-idea
 
 | Name                                | Short Description                             | Link to preview                       |
 | ----------------------------------- | --------------------------------------------- | ------------------------------------- |
-| [Bin2Dec](..tree/master/Tier1/Bin2Dec)          | Binary-to-Decimal number converter            |                |
+| [Bin2Dec](../master/Tier1/Bin2Dec)          | Binary-to-Decimal number converter            |                |
